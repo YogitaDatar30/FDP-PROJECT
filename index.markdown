@@ -1,4 +1,4 @@
-# Dr. Yogita Datar's Computer Science Educational Resources
+# Dr. Yogita Datar's IIT ROPAR Capacity Building Program on From Chalkboard to Chatboat Resources
 
 Welcome to my collection of educational resources and reflections for Computer Science and Probability courses. These materials, developed as part of my teaching and professional development, cover lesson plans, student feedback, research insights, and experiential learning stories. Explore the links below to access specific documents:
 
